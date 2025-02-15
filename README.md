@@ -10,6 +10,8 @@ XChangeMate is a modern and easy-to-use **currency converter** that allows you t
 ✅ **Fast & Responsive** – Works smoothly on all devices.  
 
 ## 🎥 Preview  
+![Uploading Screenshot 2025-02-15 150906.png…]()
+
 *A smooth and user-friendly currency converter*  
 
 ---
